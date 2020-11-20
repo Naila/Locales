@@ -2,6 +2,6 @@
 bear:
   description: "Ursos aleatórios!"
 bird:
-  description: "Random birds!"
+  description: "Pássaros aleatórios!"
 dolphin:
-  description: "Random dolphins!"
+  description: "Golfinhos aleatórios!"
