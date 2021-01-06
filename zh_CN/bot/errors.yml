@@ -1,2 +1,2 @@
 ---
-no_nsfw: "我不能给你一个命令“{command}”在一个飞毛腿的环境中！"
+no_nsfw: "I can't give you the command `{command}` in a sfw environment!"
