@@ -1,1 +1,28 @@
 ---
+bear:
+  description: "Random bears!"
+bird:
+  description: "Random birds!"
+dolphin:
+  description: "Random dolphins!"
+duck:
+  description: "Random ducks!"
+elephant:
+  description: "Random elephants!"
+fox:
+  description: "Random foxes!"
+giraffe:
+  description: "Random giraffes!"
+hippo:
+  description: "Random hippos!"
+horse:
+  description: "Random horses!"
+killerwhale:
+  description: "Random killer whales!"
+koala:
+  description: "Random koalas!"
+lion:
+  description: "Random lions!"
+cat:
+  description: "Random cats!"
+  invalid_breed: "Invalid breed!"
