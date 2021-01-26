@@ -1,2 +1,6 @@
 ---
-no_nsfw: "I can't give you the command `{command}` in a sfw environment!"
+no_nsfw: "I cannot give you the command `{command}` in a sfw environment!"
+no_pms: "{command} cannot be used in private messages!"
+cannot_respond: "I cannot send messages in {guild}!"
+bot_missing_perms: "I need the `{permissions}` permissions for this command to work!"
+on_cooldown: "You can try again in {time}!"
