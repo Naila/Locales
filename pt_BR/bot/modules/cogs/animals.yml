@@ -1,10 +1,10 @@
 ---
 bear:
-  description: "Random bears!"
+  description: "Ursos aleatórios!"
 bird:
-  description: "Random birds!"
+  description: "Pássaros aleatórios!"
 dolphin:
-  description: "Random dolphins!"
+  description: "Golfinhos aleatórios!"
 duck:
   description: "Random ducks!"
 elephant:
